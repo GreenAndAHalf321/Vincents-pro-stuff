@@ -1,0 +1,7 @@
+C:\Users\flowa\OneDrive\Documents\Programmieren\Vincent\PokerSim\PokerSim\bin\Debug\PokerSim.exe.config
+C:\Users\flowa\OneDrive\Documents\Programmieren\Vincent\PokerSim\PokerSim\bin\Debug\PokerSim.exe
+C:\Users\flowa\OneDrive\Documents\Programmieren\Vincent\PokerSim\PokerSim\bin\Debug\PokerSim.pdb
+C:\Users\flowa\OneDrive\Documents\Programmieren\Vincent\PokerSim\PokerSim\obj\Debug\PokerSim.csprojAssemblyReference.cache
+C:\Users\flowa\OneDrive\Documents\Programmieren\Vincent\PokerSim\PokerSim\obj\Debug\PokerSim.csproj.CoreCompileInputs.cache
+C:\Users\flowa\OneDrive\Documents\Programmieren\Vincent\PokerSim\PokerSim\obj\Debug\PokerSim.exe
+C:\Users\flowa\OneDrive\Documents\Programmieren\Vincent\PokerSim\PokerSim\obj\Debug\PokerSim.pdb
