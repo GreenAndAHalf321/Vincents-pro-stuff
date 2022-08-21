@@ -33,7 +33,7 @@ Das zuweisen von *Value* soll in ein try/catch verpackt werden. Wenn eine *Index
 
 ### Operator overloading
 * Überlade die Operatoren < und > die jeweils den *Value* von den Karten auf größe vergleichen sollen.
-* Überlade die Operatoren == und != die jeweils schauen soll ob der *Value* von 2 Karten der selbe ist.
+* Überlade die Operatoren == und != die jeweils schauen soll ob der *Value* von einer Karte == oder != einem int ist (z.B. if(karte == 5)).
 * Überlade den Operator | der überprüfen soll ob zwei Karten dieselbe Farbe haben.
 > Tipp: Herz/Karo Karten sind rot, Pik/Kreuz Karten sind schwarz
 
